@@ -13,5 +13,14 @@
     "react-dom": "18.2.0",
     "remark": "^14.0.2",
     "remark-html": "^15.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.1.5",
+    "@types/react": "18.2.6",
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
+    "@typescript-eslint/parser": "^5.59.6",
+    "eslint": "^8.40.0",
+    "eslint-plugin-react": "^7.32.2",
+    "typescript": "5.0.4"
   }
 }
